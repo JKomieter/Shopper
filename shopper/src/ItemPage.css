@@ -1,0 +1,9 @@
+.Itempage-items {
+    margin: 0;
+    padding:0;
+}
+
+.Itempage-items li {
+    list-style: none;
+    margin-bottom: 20px;
+}
